@@ -1,0 +1,19 @@
+body {
+    background: linear-gradient(orange,yellow);
+}
+
+.card {
+    width: 100%;
+    display: flex;
+    background: #eee;
+    padding: .6em 1em .6em .6em;
+    margin-bottom: 1em;
+    border-radius: .3em;
+    box-shadow: rgba(0, 0, 0, 0.2) 3px 6px 10px;
+    border: solid 1px #ccc;
+   }
+   
+   .card h2 {
+    margin: 0;
+    font-size: 1em;
+   }
